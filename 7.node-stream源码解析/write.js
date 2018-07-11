@@ -1,5 +1,6 @@
 let fs = require("fs");
-let ws = fs.createWriteStream('1.txt',{
+let Ws = require('./WriteStream');
+let ws = new Ws('1.txt',{
     flags:'w',
     encoding:'utf8',
     start:0,
@@ -16,6 +17,6 @@ function write() {
 ws.on('drain',()=>{ //drain只有满了才触发
     console.log("干了");
     write();
-})
+});
 write();
 
