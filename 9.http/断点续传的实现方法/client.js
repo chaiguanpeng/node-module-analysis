@@ -23,7 +23,7 @@ function downLoad() {
         "Range" : `bytes=${start}-${start+4}`
     };
     start +=5;
-    //res指服务端 可读可写
+    //res指服务端 可读
     let client = http.request(config,(res)=>{
         let total = res.headers['content-range'].split('/')[1];
         console.log(total);
