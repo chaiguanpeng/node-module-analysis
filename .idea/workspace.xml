@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8930958d-5b3e-4fb4-bd63-2ac36351d14f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/9.http头的应用/多语言.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.http/图片防盗链简易版/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/9.http头的应用/图片防盗链简易版/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.http/图片防盗链简易版/public/pic1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/9.http头的应用/图片防盗链简易版/public/pic1.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.http/图片防盗链简易版/public/pic2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/9.http头的应用/图片防盗链简易版/public/pic2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.http/图片防盗链简易版/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/9.http头的应用/图片防盗链简易版/server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.http/断点续传的实现方法/1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/9.http头的应用/断点续传的实现方法/1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.http/断点续传的实现方法/client.js" beforeDir="false" afterPath="$PROJECT_DIR$/9.http头的应用/断点续传的实现方法/client.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.http/断点续传的实现方法/range.js" beforeDir="false" afterPath="$PROJECT_DIR$/9.http头的应用/断点续传的实现方法/range.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.http/简易爬虫.js" beforeDir="false" afterPath="$PROJECT_DIR$/9.http头的应用/简易爬虫.js" afterDir="false" />
-    </list>
+    <list default="true" id="8930958d-5b3e-4fb4-bd63-2ac36351d14f" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -27,8 +17,8 @@
       <file leaf-file-name="多语言.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/9.http头的应用/多语言.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+            <state relative-caret-position="308">
+              <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -67,9 +57,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-19" />
-    <option name="y" value="63" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="821" />
+    <option name="y" value="104" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -155,12 +145,12 @@
       <updated>1530866179473</updated>
       <workItem from="1530866180768" duration="2500000" />
       <workItem from="1531098179556" duration="71000" />
-      <workItem from="1531364977056" duration="35000" />
+      <workItem from="1531364977056" duration="1389000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2606000" />
+    <option name="totallyTimeSpent" value="3960000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -217,8 +207,8 @@
     <entry file="file://$PROJECT_DIR$/text.js" />
     <entry file="file://$PROJECT_DIR$/9.http头的应用/多语言.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        <state relative-caret-position="308">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
         </state>
       </provider>
     </entry>
