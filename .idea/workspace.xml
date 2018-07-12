@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8930958d-5b3e-4fb4-bd63-2ac36351d14f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.node-stream源码解析/write.js" beforeDir="false" afterPath="$PROJECT_DIR$/7.node-stream源码解析/write.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9.http头的应用/多语言.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.http/图片防盗链简易版/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/9.http头的应用/图片防盗链简易版/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.http/图片防盗链简易版/public/pic1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/9.http头的应用/图片防盗链简易版/public/pic1.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.http/图片防盗链简易版/public/pic2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/9.http头的应用/图片防盗链简易版/public/pic2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.http/图片防盗链简易版/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/9.http头的应用/图片防盗链简易版/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.http/断点续传的实现方法/1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/9.http头的应用/断点续传的实现方法/1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.http/断点续传的实现方法/client.js" beforeDir="false" afterPath="$PROJECT_DIR$/9.http头的应用/断点续传的实现方法/client.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.http/断点续传的实现方法/range.js" beforeDir="false" afterPath="$PROJECT_DIR$/9.http头的应用/断点续传的实现方法/range.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.http/简易爬虫.js" beforeDir="false" afterPath="$PROJECT_DIR$/9.http头的应用/简易爬虫.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="text.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/text.js">
+      <file leaf-file-name="多语言.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/9.http头的应用/多语言.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+            <state relative-caret-position="374">
+              <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -44,6 +51,7 @@
         <option value="$PROJECT_DIR$/7.node-stream源码解析/1.readStream.js" />
         <option value="$PROJECT_DIR$/7.node-stream源码解析/write.js" />
         <option value="$PROJECT_DIR$/text.js" />
+        <option value="$PROJECT_DIR$/9.http头的应用/多语言.js" />
       </list>
     </option>
   </component>
@@ -70,7 +78,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -78,10 +85,16 @@
               <item name="node-code-analysis" type="b2602c69:ProjectViewProjectNode" />
               <item name="node-code-analysis" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="node-code-analysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="node-code-analysis" type="462c0819:PsiDirectoryNode" />
+              <item name="9.http头的应用" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -95,6 +108,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\learn\nodeAnalysis\node-code-analysis\9.http头的应用" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -137,11 +155,12 @@
       <updated>1530866179473</updated>
       <workItem from="1530866180768" duration="2500000" />
       <workItem from="1531098179556" duration="71000" />
+      <workItem from="1531364977056" duration="35000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2571000" />
+    <option name="totallyTimeSpent" value="2606000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -154,7 +173,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3293348" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3293348" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3293348" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -173,13 +192,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/text.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/text.js" />
     <entry file="file://$PROJECT_DIR$/7.node-stream源码解析/1.readStream.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -201,10 +214,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/text.js">
+    <entry file="file://$PROJECT_DIR$/text.js" />
+    <entry file="file://$PROJECT_DIR$/9.http头的应用/多语言.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        <state relative-caret-position="374">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
         </state>
       </provider>
     </entry>
