@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8930958d-5b3e-4fb4-bd63-2ac36351d14f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/9.http头的应用/加密算法/md5+hmac/hmac1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9.http头的应用/加密算法/md5+hmac/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9.http头的应用/加密算法/md5+hmac/md51.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9.http头的应用/加密算法/md5+hmac/md52.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9.http头的应用/加密算法/md5+hmac/rsa_private.key" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8930958d-5b3e-4fb4-bd63-2ac36351d14f" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -20,7 +13,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="md51.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/9.http头的应用/md5+hmac/md51.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -74,6 +77,11 @@
               <item name="node-code-analysis" type="b2602c69:ProjectViewProjectNode" />
               <item name="node-code-analysis" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="node-code-analysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="node-code-analysis" type="462c0819:PsiDirectoryNode" />
+              <item name="9.http头的应用" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -98,10 +106,10 @@
       <recent name="G:\learn\nodeAnalysis\node-code-analysis\9.http头的应用" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\learn\nodeAnalysis\node-code-analysis\9.http头的应用" />
       <recent name="G:\learn\nodeAnalysis\node-code-analysis\9.http头的应用\加密算法" />
       <recent name="G:\learn\nodeAnalysis\node-code-analysis" />
       <recent name="G:\learn\nodeAnalysis\node-code-analysis\9.http头的应用\常见缓存用法" />
-      <recent name="G:\learn\nodeAnalysis\node-code-analysis\9.http头的应用" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -151,12 +159,12 @@
       <workItem from="1531364977056" duration="1389000" />
       <workItem from="1531383319058" duration="1303000" />
       <workItem from="1531443615982" duration="639000" />
-      <workItem from="1531463321703" duration="2715000" />
+      <workItem from="1531463321703" duration="3214000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8617000" />
+    <option name="totallyTimeSpent" value="9116000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -166,9 +174,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3293348" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3293348" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3293348" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3293348" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -303,6 +311,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.http头的应用/md5+hmac/md51.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
