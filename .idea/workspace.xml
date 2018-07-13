@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8930958d-5b3e-4fb4-bd63-2ac36351d14f" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/9.http头的应用/加密算法/md5+hmac/hmac1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9.http头的应用/加密算法/md5+hmac/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9.http头的应用/加密算法/md5+hmac/md51.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9.http头的应用/加密算法/md5+hmac/md52.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9.http头的应用/加密算法/md5+hmac/rsa_private.key" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -15,37 +20,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="多语言.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/9.http头的应用/多语言.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cache3.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/9.http头的应用/常见缓存用法/cache3.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/9.http头的应用/常见缓存用法/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -64,6 +39,8 @@
         <option value="$PROJECT_DIR$/7.node-stream源码解析/write.js" />
         <option value="$PROJECT_DIR$/text.js" />
         <option value="$PROJECT_DIR$/9.http头的应用/多语言.js" />
+        <option value="$PROJECT_DIR$/1.js" />
+        <option value="$PROJECT_DIR$/2.js" />
       </list>
     </option>
   </component>
@@ -79,7 +56,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-19" />
     <option name="y" value="63" />
     <option name="width" value="974" />
@@ -108,7 +85,7 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="10.3.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../珠峰test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.prettier" value="true" />
     <property name="node.js.path.for.package.prettier" value="project" />
     <property name="node.js.selected.package.prettier" value="" />
@@ -117,7 +94,12 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\learn\nodeAnalysis\node-code-analysis\9.http头的应用" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\learn\nodeAnalysis\node-code-analysis\9.http头的应用\加密算法" />
+      <recent name="G:\learn\nodeAnalysis\node-code-analysis" />
       <recent name="G:\learn\nodeAnalysis\node-code-analysis\9.http头的应用\常见缓存用法" />
       <recent name="G:\learn\nodeAnalysis\node-code-analysis\9.http头的应用" />
     </key>
@@ -134,7 +116,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.text.js">
+  <component name="RunManager" selected="Node.js.1.js">
+    <configuration name="1.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="1.js" working-dir="$PROJECT_DIR$" />
     <configuration name="1.readStream.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="1.readStream.js" working-dir="$PROJECT_DIR$/7.node-stream源码解析" />
     <configuration name="text.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="text.js" working-dir="$PROJECT_DIR$" />
     <configuration name="write.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="write.js" working-dir="$PROJECT_DIR$/7.node-stream源码解析" />
@@ -142,9 +125,11 @@
       <item itemvalue="Node.js.write.js" />
       <item itemvalue="Node.js.1.readStream.js" />
       <item itemvalue="Node.js.text.js" />
+      <item itemvalue="Node.js.1.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.1.js" />
         <item itemvalue="Node.js.text.js" />
         <item itemvalue="Node.js.write.js" />
         <item itemvalue="Node.js.1.readStream.js" />
@@ -166,21 +151,22 @@
       <workItem from="1531364977056" duration="1389000" />
       <workItem from="1531383319058" duration="1303000" />
       <workItem from="1531443615982" duration="639000" />
+      <workItem from="1531463321703" duration="2715000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5902000" />
+    <option name="totallyTimeSpent" value="8617000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3293348" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3293348" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3293348" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -201,6 +187,29 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/9.http头的应用/多语言.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.http头的应用/常见缓存用法/cache3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.http头的应用/常见缓存用法/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/9.http头的应用/多语言.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
@@ -274,6 +283,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.http头的应用/gzip/2.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.http头的应用/加密算法/md5+hmac/md51.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
         </state>
       </provider>
     </entry>
